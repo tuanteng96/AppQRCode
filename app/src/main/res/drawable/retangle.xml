@@ -8,5 +8,5 @@
         android:color="@android:color/background_light"/>
 
     <corners android:radius="8dp"/>
-    <solid android:color="#66FEFE"/>
+    <solid android:color="#1AF44336"/>
 </shape>
